@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EditTextDelete</string>
+
+    <string name="toast_input_exceeded">已超过输入上限</string>
+
+</resources>

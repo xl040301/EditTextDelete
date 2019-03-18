@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/searchview_text_edit_delete_pressed_raw"
+            android:tint="@color/tint_normal_default" />
+    </item>
+    <item
+        android:left="0.0dip"
+        android:top="0.0dip">
+        <bitmap android:src="@drawable/searchview_text_edit_delete_pressed_raw_foreground" />
+    </item>
+</layer-list>
